@@ -76,6 +76,7 @@ function (Settings) {
       'terms',
       'stats',
       'sparklines',
+      'flows',
       'heatmap'
     ]
   });
